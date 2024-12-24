@@ -23,40 +23,6 @@ A comprehensive restaurant management system built with Laravel, designed to str
 - Bootstrap
 - jQuery
 
-## Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/SakhrWahib/restaurant-management-system.git
-```
-
-2. Install dependencies
-```bash
-composer install
-npm install
-```
-
-3. Configure environment
-```bash
-cp .env.example .env
-php artisan key:generate
-```
-
-4. Setup database
-```bash
-php artisan migrate
-php artisan db:seed
-```
-
-5. Start the server
-```bash
-php artisan serve
-```
-
-## License
-
-MIT
-
 ## Author
 
 Sakhr Wahib
